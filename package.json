@@ -24,7 +24,7 @@
     "jsonwebtoken": "^8.5.1",
     "knex": "^2.2.0",
     "pg": "^8.7.3",
-    "yup": "^1.0.2"
+    "yup": "^1.4.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.15.0",
